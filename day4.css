@@ -1,0 +1,17 @@
+@media (max-width: 2000px) {
+  /* rules here apply to devices from 993px to 1200px (inclusive) */
+  body {
+    background-image: url(./IMAGES/image-gallery-orange.jpg);
+    padding: 2%;
+    background-repeat: no-repeat;
+    padding-inline-end: 20%;
+    width: fit-content;
+    background-size: 2%;
+    background-size: cover;
+    height: 200%;
+  }
+}
+.mainsection {
+  display: flex;
+  justify-content: flex-start;
+}
